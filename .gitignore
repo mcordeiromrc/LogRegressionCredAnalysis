@@ -1,0 +1,40 @@
+## Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.env/
+
+## Packaging / build
+build/
+dist/
+*.egg-info/
+
+## Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+
+## Jupyter
+.ipynb_checkpoints/
+
+## Streamlit
+.streamlit/secrets.toml
+
+## IDEs
+.vscode/
+.idea/
+
+## OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Misc
+*.log
